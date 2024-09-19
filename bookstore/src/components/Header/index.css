@@ -59,3 +59,10 @@
     margin-left: 8px;
     padding: 5px 6px
 }
+
+@media screen and (min-width: 768px){
+    .icon-name{
+        display:inline;
+        margin-left:5px;
+    }
+}
